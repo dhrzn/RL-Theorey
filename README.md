@@ -36,7 +36,7 @@ This matters for the next step, where a Gymnasium file will import `LineEnv` and
 ## Plan
 
 1. LineEnv in plain Python (done)
-2. Neural networks from scratch in NumPy
+2. Neural networks from scratch in NumPy (Currently in progress)
 3. Turn LineEnv into a Gymnasium environment
 4. PyTorch
 5. Reach environment on a simulated arm in MuJoCo
